@@ -1,0 +1,15 @@
+:root {
+    --color-principal: #5572DB;
+    --color-secondary: #B0BDEB;
+    --color-third: #D9D9D9;
+}
+
+#main {
+    color: var(--color-principal);
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 60%;
+    margin: 10%;
+    font-size: xx-large;
+}
